@@ -1,0 +1,8 @@
+CustomerID,Name,Age,City,PurchaseAmount
+101,Aisha,25.0,Bangalore,1500.0
+102,Rahul,30.0,Mysore,2500.0
+103,Sara,,Bangalore,1800.0
+102,Rahul,30.0,Mysore,2500.0
+104,John,150.0,Delhi,900.0
+105,Meera,28.0, delhi ,
+106,,35.0,Mumbai,2200.0
